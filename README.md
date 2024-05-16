@@ -1,2 +1,116 @@
 # N-days-of-code
 This is all about programming learning in N days of code with consistency and with all of i have!
+<h1 align="center">💠 ようこそ 👋, 𝘐'𝘮 Om! 💠</h1>
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:996/1*pfsYxXyCnnqxEeMX7bOpWg.gif">
+  <img width="720" height="auto" src=Add-ons/FSN.gif>
+</div>
+
+<br>
+
+<h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
+
+<ul>
+  <li> 🔭 I’m currently working and learning on <b> Web Development, AI, Android Development</b></li>
+  <li> 🤔 I’m looking for help with <b>becoming a SDE </b></li>
+  <li> 📫 How to reach me: <b>ompanpatil513@gmail.com</b></li>
+</ul>
+
+<br>
+
+<h1 align="center"></h1>
+
+<h2>Important points for WebDev</h2>
+<body>
+   form mae inputs aatae hai 
+   id aapko help karta hai elements ko individually select karna mae -->
+   Id ka name kabhi repeat mat karro  -->
+   Class ka name repeat ho sakhta hai
+   Tags like nav, Section, Header, Main, Aside, Article, Footer of semantic html does not do anything on it's own
+
+
+    <!-- on the regular basis for WebDev we have to follow:
+    a)html file,
+    b) css file,
+    c)linking both of them together,
+    d)to write their boilerplate:
+    1)for css:
+    *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+    html,body{
+    width: 100%;
+    height: 100%;
+    }
+
+    2)for html:
+    <!Doctype html>
+    <html lang="en">
+    <head>
+
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>frontend</title>
+
+    </head>
+    <body>
+
+    </body>
+    </html
+
+        1.header: it consist of the first landing page
+        2.nav: navigation bar
+        3.main: full or poori website isme aajayegi
+        4.Section : pages of websites
+        5.article: website kae andar jou subh element hoge unko article mein daal saktae hai
+        6.aside: side mein usually jou fixed element hote hai unke liyae use hota hai mainly
+        7.Footer: footer bannane kae liyae 
+        8.audio
+        9.video
+
+
+  <h2>Important CSS basics</h2>
+
+  <p> color, font- family, units = px; vh; vw; rem;em , max-width and max-height,  font-size, line-height, text-align, padding, margin, border, display, position, background, flex, pseudoelements, pseudo classes , width and height</p>
+  DPI: Display per Inch; Pixel per inch
+  few times we can use (px): Pixel because it hides or does not make that good responsive website. 
+
+  <strong> Animation, media queries </strong>
+
+  % hamesha parent sae value lettae hai,
+  vw and vh hamesha screen sae value lettae hai.
+ <p> <strong>Pseudo-elements</strong> Pseudo- elements:
+ 1. :: before, ::after,::first-line,::first-letter,::selection</p>
+
+ <p> <strong>Pseudo-classes</strong>
+ <br> ::Hover, ::Active, ::Focus, ::nth-child(n)</p>
+
+ colour pallate website:
+ Most important part for color in dvelopment-->
+
+ 1. color name,
+ 2. Hexadecimal,
+ 3. RGB Functional Notation: RGB(0 to 255, 0 to 255, 0 to 255)
+ 4. RGBA : transparency from 0 to 1
+ 5. other color format: hsl, hsla.
+
+
+ .elem#elem$*unit
+
+ <p>  Display grid is better than display flex because the display flex are in the one dimensional like 
+    we can only place them in row or column and in display flex we can only work in row or column.
+ 
+    Display grid does have the control on main and cross axis at one time in row and column at same time
+    and also at one time. And it is two dimensional i.e. it does the row and column at the same time.
+
+  </p>
+
+  <h2>Important relationship between flex and grid</h2>
+  <p> we can simply sates that the grid is used to the respective column and rows transformation at the same time by using justify-item and align-item and can be align with the help of align-content and justify-contant to locate at the axis on the screen. </p>
+
+  mix-blend-mode to add(ov)
+
+</body>
