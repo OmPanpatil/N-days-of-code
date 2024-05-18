@@ -113,4 +113,20 @@ This is all about programming learning in N days of code with consistency and wi
 
   mix-blend-mode to add(ov)
 
+  <ol>
+    <li>VS Code</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Tailwind CSS</li>
+    <li>JS</li>
+    <li>React.Js</li>
+    <li>Three.Js</li>
+    <li>Express.Js</li>
+    <li>Next.Js</li>
+    <li>MongoDB</li>
+    <li>DOM</li>
+    <li>Assignments</li>
+    <li>Projects</li>
+  </ol>
+
 </body>
