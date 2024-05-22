@@ -20,6 +20,7 @@ button {
   background-color: lightcoral;
   color: #fff;
   border: 1px lightcoral solid;
+  border-radius: 2.5%;
   font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 2px;
