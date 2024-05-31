@@ -114,6 +114,7 @@ This is all about programming learning in N days of code with consistency and wi
   mix-blend-mode to add(ov)
 
   <ol>
+    <li>// StackOverflow https://stackoverflow.com/questions/10756313/javascript-jquery-map-a-range-of-numbers-to-another-range-of-numbers</li>
     <li>VS Code</li>
     <li>HTML</li>
     <li>CSS</li>
