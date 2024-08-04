@@ -57,4 +57,3 @@ if (numbers %2 == 0) {
     console.log("The number is Odd");
 }
 
-
